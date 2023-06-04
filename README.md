@@ -12,10 +12,7 @@ A simple chat application built with Flutter and Firebase that allows users to s
 
 ## Screenshots
 
-![Alt text](/assets/docs/1.jpeg?raw=true "Optional Title")
-![Alt text](/assets/docs/2.jpeg?raw=true "Optional Title")
-![Alt text](/assets/docs/3.jpeg?raw=true "Optional Title")
-![Alt text](/assets/docs/4.jpeg?raw=true "Optional Title")
+![Alt text](/assets/docs/1.jpeg?raw=true "Optional Title") ![Alt text](/assets/docs/2.jpeg?raw=true "Optional Title") ![Alt text](/assets/docs/3.jpeg?raw=true "Optional Title") ![Alt text](/assets/docs/4.jpeg?raw=true "Optional Title")
 
 ## Getting Started
 
