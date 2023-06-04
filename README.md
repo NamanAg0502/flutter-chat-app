@@ -13,10 +13,10 @@ A simple chat application built with Flutter and Firebase that allows users to s
 ## Screenshots
 
 <div style="display:flex;justify-content:center;">
-    <img src="/assets/docs/1.jpeg" alt="Screenshot 1" width="225"/>
-    <img src="/assets/docs/2.jpeg" alt="Screenshot 2" width="225"/>
-    <img src="/assets/docs/3.jpeg" alt="Screenshot 3" width="225"/>
-    <img src="/assets/docs/4.jpeg" alt="Screenshot 4" width="225"/>
+    <img src="/assets/docs/1.jpeg" alt="Screenshot 1" width="200"/>
+    <img src="/assets/docs/2.jpeg" alt="Screenshot 2" width="200"/>
+    <img src="/assets/docs/3.jpeg" alt="Screenshot 3" width="200"/>
+    <img src="/assets/docs/4.jpeg" alt="Screenshot 4" width="200"/>
 </div>
 
 ## Getting Started
