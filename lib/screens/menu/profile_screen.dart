@@ -15,7 +15,6 @@ import '../../widgets/loading_widget.dart';
 import '../../widgets/profile_form_field.dart';
 import '../../widgets/select_country_code.dart';
 import '../auth/login_screen.dart';
-import 'home_screen.dart';
 
 class ProfilePage extends StatefulWidget {
   const ProfilePage({Key? key}) : super(key: key);
